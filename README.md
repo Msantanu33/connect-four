@@ -3,7 +3,7 @@
 A classic Connect Four game built with HTML, CSS, and JavaScript. Two players take turns dropping colored discs into a vertical grid, aiming to connect four of their pieces in a row — horizontally, vertically, or diagonally.
 
 # 🌐 Demo
-Live Demo <!-- Replace with actual URL if hosted -->
+Live Demo https://msantanu33.github.io/connect-four/
 
 
 # 🛠️ Technologies Used
